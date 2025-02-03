@@ -45,21 +45,21 @@ const query = `
 
 //CHANGE YOUR STORES HERE
 const params = [
-    { zip: "80487", store: "382" },
-    { zip: "80487", store: "1079" },
-    { zip: "80487", store: "693" },
-    { zip: "80487", store: "164" },
-    { zip: "80487", store: "1224" },
-    { zip: "80487", store: "210" },
-    { zip: "80487", store: "1416" },
-    { zip: "80487", store: "211" },
-    { zip: "80487", store: "225" },
-    { zip: "80487", store: "1124" },
-    { zip: "80487", store: "1194" },
-    { zip: "80487", store: "298" },
-    { zip: "80487", store: "212" },
-    { zip: "80487", store: "1171" },
-    { zip: "80487", store: "1031" },
+    { zip: "91316", store: "764" },
+    { zip: "91316", store: "1180" },
+    { zip: "91316", store: "393" },
+    { zip: "91316", store: "137" },
+    { zip: "91316", store: "109" },
+    { zip: "91316", store: "116" },
+    { zip: "91316", store: "1511" },
+    { zip: "91316", store: "179" },
+    { zip: "91316", store: "130" },
+    { zip: "91316", store: "183" },
+    { zip: "91316", store: "1510" },
+    { zip: "91316", store: "104" },
+    { zip: "91316", store: "1537" },
+    { zip: "91316", store: "872" },
+    { zip: "91316", store: "125" },
   ];
 
 let lines = 0;
